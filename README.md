@@ -49,8 +49,7 @@ This repository is a work in progress and will be updated regularly as I solve m
 ---
 
 ## 🔗 LeetCode Profile
-You can find the original problems here:  
-👉 https://leetcode.com/
+👉 https://leetcode.com/u/SohamC_Go_on/
 
 ---
 
